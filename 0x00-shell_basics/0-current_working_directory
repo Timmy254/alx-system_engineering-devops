@@ -1,2 +1,3 @@
 #!/bin/bash
-realpath alx-system_engineering-devops
+realpath
+
