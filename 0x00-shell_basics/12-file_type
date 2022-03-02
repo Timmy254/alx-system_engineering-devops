@@ -1,2 +1,2 @@
 #!/bin/bash
-file -f --files-from /tmp/iamafile
+file -s --files-from /tmp/iamafile
