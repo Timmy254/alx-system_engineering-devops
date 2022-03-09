@@ -1,2 +1,2 @@
 #!/bin/bash
-if [[ "$(whoami)" != "root" ]]; then   echo "hello $(whoami)"; fi
+echo hello $USER
